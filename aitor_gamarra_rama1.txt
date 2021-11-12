@@ -3,3 +3,4 @@ Nueva linea rama1
 Cambio en el fichero rama1.txt
 otra linea en el fichero rama1.txt
 Linea 5 en rama1.txt
+linea 6 en rama1
